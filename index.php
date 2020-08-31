@@ -3,6 +3,5 @@
 echo "this is the test file....A new Commit";
 
 echo "hellooo";
-echo "hellooo"; 
-echo "hellooo";
+
 ?>
