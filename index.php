@@ -9,5 +9,5 @@ $string  = "asdjkaskgkdask";
 
 echo "should reflect Now";
 echo "should reflect Now";
-/*This is a  test*/
+/*This is a test for the pull request*/
 ?>
